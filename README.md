@@ -1,87 +1,80 @@
-<h1 align="center">Hi, I'm Maheswar Padhy 👋</h1>
-<h3 align="center">Full-Stack Developer | JavaScript | React | Node.js</h3>
+<h1 align="center">Hi 👋, I'm Lijoraj P R</h1>
+<h3 align="center">Aspiring Full Stack Developer | Graphic Designer</h3>
+<h6 align="center">Hello, I am Lijoraj P R, a  Full Stack Software Engineer based in Kerala, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <a href="https://github.com/lijoraj-p-r/myportfolio/blob/main/media/Lijoraj.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
+  </a>
+</div>
 
 ---
 
-## 🚀 About Me  
-I’m a passionate **Full-Stack Developer** who loves building clean, scalable, and efficient web applications.  
-I work with modern JavaScript technologies, focus on real-world data projects, and constantly improve my development skills.
+### 👨‍💻 About Me
+
+- 🔨 I’m currently working on a **React portflio**
+- 🌱 Currently exploring **React**, **MongoDB**, **Python**, and **AWS Cloud Services**
+- 📫 Reach me at: **[Portfolio Website](https://lijoraj-p-r.github.io/myportfolio/)**
 
 ---
 
-## 🛠️ Skills & Technologies  
+### 💻 Tech Stack
 
-### 🔹 Programming & Web Technologies  
-- **JavaScript**  
-- **React.js**  
-- **Node.js**  
-- **SQL**
+#### 🚀 Languages
 
-### 🔹 Frontend  
-- React.js  
-- Vite  
-- Redux Toolkit  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔹 Backend  
-- Node.js  
-- Express.js  
+#### 🧑‍🎨 Frontend
 
-### 🔹 Tools  
-- Git & GitHub  
-- VS Code  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
 
-## 📘 Currently Learning  
-- 🚀 Strengthening **Data Structures & Algorithms** (Striver A–Z DSA Sheet)  
-- ⚛️ Deep-diving into advanced **React concepts** (Redux Toolkit, RTK Query)  
-- 🧩 Building backend APIs with **Node.js & Express.js**  
-- 🗄️ Improving **SQL** query writing and database design  
-- 📊 Enhancing **Python analytics** skills through Olympic datasets  
-- 💡 Practicing full-stack **architecture & deployment**
+#### 🧠 Backend & DevTools
 
----
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 📂 Featured Projects  
 
-### 🏅 **Country-Wise Gold Medalist Analysis**  
-**Data Analysis | Olympics Dataset | Python**
+#### 🖼️ Creative Tools
 
-**What This Project Does:**  
-Analyzes Olympic data to determine country-wise **gold medal counts** and performance trends.
-
-**Key Features:**  
-- Country-wise gold medal breakdown  
-- Top-performing nations  
-- Bar / Line / Pie charts  
-- Clean and beginner-friendly code  
-
-**Tech Stack:**  
-Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook  
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-### 🏆 **Summer Olympics Analysis (1896–2024)**  
-**Historical Data Study | Visualization Project**
+### 📊 GitHub Stats
 
-**What This Project Does:**  
-Analyzes the entire history of the **Summer Olympics** with rich visual insights from 1896 to 2024.
-
-**Key Features:**  
-- Medal trends across different decades  
-- Country & athlete performance  
-- Gold/Silver/Bronze distribution  
-- Interactive charts  
-
-**Tech Stack:**  
-Python | Pandas | Matplotlib | Seaborn | Plotly  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lijoraj-p-r&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijoraj-p-r&theme=gruvbox&layout=compact&hide_border=false" height="165px"/>
+</p>
 
 ---
 
-## 📫 Contact Me  
-- **Email:** pmaheswar639@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/maheswar-padhy-778286228/  
+### ✍️ Dev Quote
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-<p align="center"><b>⭐ If you like my work, feel free to star my repositories!</b></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lijoraj-p-r&label=Profile%20views&color=0e75b6&style=flat" alt="lijoraj-p-r" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@lijoraj-p-r+%7C+@CodingIsFun;lijorajpr321@gmail.com;Lijoraj✌️👨‍💻" alt="Typing SVG" />
+</p>
+
+<!-- Made with ❤️ by Lijoraj  -->
