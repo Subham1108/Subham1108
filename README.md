@@ -18,7 +18,7 @@
 
 - 🔨 I’m currently working on a **React portflio**
 - 🌱 Currently exploring **React**, **MongoDB**, **Python**, and **AWS Cloud Services**
-- 📫 Reach me at: **[Portfolio Website](https://lijoraj-p-r.github.io/myportfolio/)**
+- 📫 Reach me at: **[Portfolio Website](https://mahe-showcase.lovable.app/#)**
 
 ---
 
