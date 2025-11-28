@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@lijoraj-p-r+%7C+@CodingIsFun;lijorajpr321@gmail.com;Lijoraj✌️👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@lijoraj-p-r+%7C+@CodingIsFun;pmaheswar639@gmail.com;Maheswar✌️👨‍💻" alt="Typing SVG" />
 </p>
 
-<!-- Made with ❤️ by Lijoraj  -->
+<!-- Made with ❤️ by Maheswar  -->
