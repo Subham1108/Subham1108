@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <a href="https://maheswar-resume-2025.tiiny.site" target="_blank">
+  <a href="https://drive.google.com/file/d/1n7nsBm3ak774YmQwgEoLLSsgjL_5U-Fz/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
   </a>
 </div>
